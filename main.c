@@ -9,6 +9,13 @@
 
 #include "part.h"
 
+/**
+ * cimibroker entwickeln!!!
+ * @return
+ */
+
+
+
 int main(void){
 	int *mod;
 	initStruk();
