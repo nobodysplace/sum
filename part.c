@@ -9,9 +9,13 @@
 
 #include "part.h"
 
+typedef struct{
+	unsigned int number;
+}SubStrukt;
 
 typedef struct{
 	unsigned int zahl;
+	SubStrukt aSub;
 }Strukt;
 
 Strukt aStruk;
